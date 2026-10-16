@@ -2,3 +2,15 @@
 node_modules
 .tmp
 npm-debug.log
+# ogólnie: obiekty i biblioteki
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+
+# skompilowane pliki wykonywalne
+src/Ch00/CodeDemo
+src/**/CodeDemo
